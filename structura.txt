@@ -1,9 +1,14 @@
 ID
-Project_Name									Version
+Project_Name
+Version
 Component
 Environment 
-Title										Steps
+Title
+Steps
 Expected_result
-Actual_resul									Priority									Severity									Reported_by
+Actual_resul
+Priority
+Severity
+Reported_by
 Assigned_by	
 Status
