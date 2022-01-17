@@ -1,0 +1,9 @@
+ID
+Project_Name									Version
+Component
+Environment 
+Title										Steps
+Expected_result
+Actual_resul									Priority									Severity									Reported_by
+Assigned_by	
+Status
